@@ -1,2 +1,2 @@
 # endtoendml
-following hands-on ml learning with scikit-learn chapter 2 by Geron, on different data
+following chapter 2 from hands-on ml with scikit-learn by Geron, on nyc housing data
