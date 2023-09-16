@@ -1,2 +1,2 @@
 # endtoendml
-following hands-on ml learning with scikit-learn chapter 2, on different data
+following hands-on ml learning with scikit-learn chapter 2 by Geron, on different data
